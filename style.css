@@ -106,7 +106,7 @@ td{
         display: flex;
         justify-content: center;
         align-content: center;
-        background-color: var(--neu-rose-white);
+        background-color: var(--neu-eggshell);
     }
 
     #card-container{
